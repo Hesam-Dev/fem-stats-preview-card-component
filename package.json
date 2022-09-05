@@ -1,0 +1,16 @@
+{
+  "name": "fem-stats-preview-card-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "postcss": "postcss --use autoprefixer -b 'last 10 versions' style.css -o prefix.style.css"
+  },
+  "author": "Hesam Ghodrati",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0"
+  }
+}
